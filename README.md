@@ -1,4 +1,4 @@
-# W3C-DTF for golang
+# W3C-DTF for golang [![Build Status](https://travis-ci.org/ak10m/go-w3cdtf.svg?branch=master)](https://travis-ci.org/ak10m/go-w3cdtf)
 
 ## Installation
 
